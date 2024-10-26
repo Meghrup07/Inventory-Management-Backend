@@ -329,3 +329,4 @@
 /Users/meghshyamwagh/Desktop/Megh/learing/dot-net/InventoryManagementBackend/API/obj/Debug/net8.0/API.pdb
 /Users/meghshyamwagh/Desktop/Megh/learing/dot-net/InventoryManagementBackend/API/obj/Debug/net8.0/API.genruntimeconfig.cache
 /Users/meghshyamwagh/Desktop/Megh/learing/dot-net/InventoryManagementBackend/API/obj/Debug/net8.0/ref/API.dll
+/Users/meghshyamwagh/Desktop/Megh/learing/dot-net/InventoryManagementBackend/API/obj/Debug/net8.0/API.sourcelink.json
