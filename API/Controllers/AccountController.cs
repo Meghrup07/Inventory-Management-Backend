@@ -73,14 +73,14 @@ namespace API.Controllers
 
         }
 
-        [HttpGet("users")]
-        [ProducesResponseType(typeof(UserDTO), StatusCodes.Status200OK)]
-        public async Task<ActionResult<UserDTO>> Users()
-        {
-            var users = await context.Users.ToListAsync();
+        // [HttpGet("users")]
+        // [ProducesResponseType(typeof(UserDTO), StatusCodes.Status200OK)]
+        // public async Task<ActionResult<UserDTO>> Users()
+        // {
+        //     var users = await context.Users.ToListAsync();
 
-            return Ok(users);
-        }
+        //     return Ok(users);
+        // }
 
         private async Task<bool> UserNameExists(string username)
         {
